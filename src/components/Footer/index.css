@@ -1,0 +1,38 @@
+.bg-container-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #161625;
+  padding-bottom: 70px;
+  padding-top: 100px;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+.footer-icons-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.covid19-text {
+  color: #ffffff;
+  font-size: 20px;
+}
+.india-text {
+  color: #007bff;
+  font-size: 20px;
+}
+.description {
+  color: #94a3b8;
+  font-size: 14px;
+  line-height: 40px;
+}
+.footer-icon {
+  color: #cbd5e1;
+  height: 30px;
+  width: 50px;
+}
